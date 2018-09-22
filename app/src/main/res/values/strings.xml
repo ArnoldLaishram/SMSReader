@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmsReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="today">TODAY</string>
+    <string name="yesterday">YESTERDAY</string>
+    <string name="earlier">EARLIER</string>
+    <string name="sender">Sender</string>
+    <string name="some_desc">Some Desc</string>
+</resources>
